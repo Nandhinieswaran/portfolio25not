@@ -1,7 +1,0 @@
-  {
-    title: "Master of Mathematics",
-    location: "Bharathi Women's College",
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2023",
-  },
